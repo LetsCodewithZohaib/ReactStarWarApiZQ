@@ -1,4 +1,4 @@
-This project is created using React and Typescript
+This project is created using React and Javascript
 
 -Run the app locally
 
