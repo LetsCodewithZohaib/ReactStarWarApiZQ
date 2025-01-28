@@ -13,4 +13,4 @@ This project is created using React and Javascript
 3. You can see associated relationship of People with starwars and planets.
 4. You can click on the box to see more details related to People and relationships.
 5. Just to show you that Starwars can also be implemented in same way by using many ways in the app.
-6. Because of busy with family and office I was not able to implement other details. Thanks :)
+
